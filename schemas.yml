@@ -1,0 +1,14 @@
+departments:
+  id: integer
+  department: string
+
+jobs:
+  id: integer
+  job: string
+
+employees:
+  id: integer
+  name: string
+  datetime: string
+  department_id: integer
+  job_id: integer

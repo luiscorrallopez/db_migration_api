@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pyspark
+sqlalchemy
+asyncpg
+aiofiles
+python-dotenv
+pyyaml
